@@ -15,7 +15,6 @@ def third_challenge
         status: "alive"
         },
       :hero_friends => []
-      binding.pry
    }, 
    :capulet => {
       :patriarch => {
